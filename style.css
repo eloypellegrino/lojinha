@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600,800");
+
+body {
+    font-family: 'Open Sans';
+}
+
+.card {
+    width: 90%;
+}
+
+.whatsapp {
+    width: 20px;
+    height: 20x;
+}
+
+.btn-datalhe {
+    width: 100%;
+    margin: 0px;
+    padding: 15px 0px;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+/* Detalhe */
+
+.detail {
+    width: 90%;
+}
